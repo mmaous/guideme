@@ -1,6 +1,6 @@
 # Guideme Application
 
-Guideme is an upcoming application designed to [brief description of the app's purpose].
+Guideme is an upcoming application designed to solve a problem most of us face.
 
 ## Overview
 
