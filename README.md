@@ -4,11 +4,11 @@ Guideme is an upcoming application designed to solve a problem most of us face.
 
 ## Overview
 
-This repository contains both the client and server codebase for Guideme. The client-side is built using Next.js, a popular React framework, while the server-side is powered by Go (Golang) version 1.21.
+This repository contains both the client and server codebase for Guideme. The client-side is built using Next.js, a popular React framework, while the server-side is powered by Spring Boot (Java) version 3.x.
 
 ### Submodules
 
 - **Client**: Contains the codebase for the Guideme frontend, built with Next.js.
-- **Server**: Contains the codebase for the Guideme backend, implemented in Go.
+- **Server**: Contains the codebase for the Guideme backend, implemented in Spring Boot (Java).
 
 ## MIT Licensed
